@@ -1,0 +1,2 @@
+# leetcodeForGo
+leetcodeForGo
